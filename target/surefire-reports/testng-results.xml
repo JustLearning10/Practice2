@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-25T14:13:26 EST" name="Suite" finished-at="2020-12-25T14:13:37 EST" duration-ms="10472">
+    <groups>
+    </groups>
+    <test started-at="2020-12-25T14:13:26 EST" name="Test" finished-at="2020-12-25T14:13:37 EST" duration-ms="10472">
+      <class name="sprint1_test.day2">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:sprint1_test.day2@32a068d1]" started-at="2020-12-25T14:13:26 EST" name="Setup" finished-at="2020-12-25T14:13:36 EST" duration-ms="9352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="OpenSignInPage()[pri:0, instance:sprint1_test.day2@32a068d1]" started-at="2020-12-25T14:13:36 EST" name="OpenSignInPage" finished-at="2020-12-25T14:13:37 EST" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSignInPage -->
+      </class> <!-- sprint1_test.day2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
